@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Today is 2027-12-07, and I have a recurrence every 7 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2027-12-21"
+  },
+  {
+    "question": "Today is 2026-07-13, and I have a recurrence every 6 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2026-07-25"
+  },
+  {
+    "question": "Today is 2027-11-25, and I have a recurrence every 7 days. Without counting today, what is the date of the 3 occurrence?",
+    "answer": "2027-12-16"
+  },
+  {
+    "question": "Today is 2028-10-24, and I have a recurrence every 5 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2028-11-03"
+  },
+  {
+    "question": "Today is 2026-11-09, and I have a recurrence every 5 days. Without counting today, what is the date of the 4 occurrence?",
+    "answer": "2026-11-29"
+  },
+  {
+    "question": "Today is 2028-10-21, and I have a recurrence every 6 days. Without counting today, what is the date of the 4 occurrence?",
+    "answer": "2028-11-14"
+  },
+  {
+    "question": "Today is 2028-05-15, and I have a recurrence every 4 days. Without counting today, what is the date of the 4 occurrence?",
+    "answer": "2028-05-31"
+  },
+  {
+    "question": "Today is 2026-07-25, and I have a recurrence every 6 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2026-08-06"
+  },
+  {
+    "question": "Today is 2028-03-30, and I have a recurrence every 5 days. Without counting today, what is the date of the 4 occurrence?",
+    "answer": "2028-04-19"
+  },
+  {
+    "question": "Today is 2028-10-02, and I have a recurrence every 4 days. Without counting today, what is the date of the 3 occurrence?",
+    "answer": "2028-10-14"
+  },
+  {
+    "question": "Today is 2025-10-03, and I have a recurrence every 6 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2025-10-15"
+  },
+  {
+    "question": "Today is 2028-01-18, and I have a recurrence every 5 days. Without counting today, what is the date of the 3 occurrence?",
+    "answer": "2028-02-02"
+  },
+  {
+    "question": "Today is 2026-03-20, and I have a recurrence every 8 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2026-04-05"
+  },
+  {
+    "question": "Today is 2028-11-05, and I have a recurrence every 8 days. Without counting today, what is the date of the 3 occurrence?",
+    "answer": "2028-11-29"
+  },
+  {
+    "question": "Today is 2025-01-21, and I have a recurrence every 8 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2025-02-06"
+  },
+  {
+    "question": "Today is 2026-12-28, and I have a recurrence every 7 days. Without counting today, what is the date of the 3 occurrence?",
+    "answer": "2027-01-18"
+  },
+  {
+    "question": "Today is 2025-05-05, and I have a recurrence every 6 days. Without counting today, what is the date of the 3 occurrence?",
+    "answer": "2025-05-23"
+  },
+  {
+    "question": "Today is 2027-08-08, and I have a recurrence every 7 days. Without counting today, what is the date of the 4 occurrence?",
+    "answer": "2027-09-05"
+  },
+  {
+    "question": "Today is 2026-01-26, and I have a recurrence every 8 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2026-02-11"
+  },
+  {
+    "question": "Today is 2025-12-07, and I have a recurrence every 8 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2025-12-23"
+  },
+  {
+    "question": "Today is 2026-12-28, and I have a recurrence every 6 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2027-01-09"
+  },
+  {
+    "question": "Today is 2027-08-20, and I have a recurrence every 8 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2027-09-05"
+  },
+  {
+    "question": "Today is 2027-12-24, and I have a recurrence every 4 days. Without counting today, what is the date of the 4 occurrence?",
+    "answer": "2028-01-09"
+  },
+  {
+    "question": "Today is 2028-01-11, and I have a recurrence every 6 days. Without counting today, what is the date of the 4 occurrence?",
+    "answer": "2028-02-04"
+  },
+  {
+    "question": "Today is 2026-04-02, and I have a recurrence every 5 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2026-04-12"
+  },
+  {
+    "question": "Today is 2025-04-26, and I have a recurrence every 8 days. Without counting today, what is the date of the 4 occurrence?",
+    "answer": "2025-05-28"
+  },
+  {
+    "question": "Today is 2026-02-15, and I have a recurrence every 6 days. Without counting today, what is the date of the 3 occurrence?",
+    "answer": "2026-03-05"
+  },
+  {
+    "question": "Today is 2028-12-19, and I have a recurrence every 5 days. Without counting today, what is the date of the 3 occurrence?",
+    "answer": "2029-01-03"
+  },
+  {
+    "question": "Today is 2026-09-02, and I have a recurrence every 7 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2026-09-16"
+  },
+  {
+    "question": "Today is 2025-06-06, and I have a recurrence every 7 days. Without counting today, what is the date of the 2 occurrence?",
+    "answer": "2025-06-20"
+  }
+]

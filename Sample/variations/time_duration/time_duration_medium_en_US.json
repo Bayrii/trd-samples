@@ -1,0 +1,122 @@
+[
+  {
+    "question": "If I looked at the clock at 06:13 and now it is 07:58, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "105"
+  },
+  {
+    "question": "If I looked at the clock at 11:42 and now it is 13:39, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "117"
+  },
+  {
+    "question": "If I looked at the clock at 04:40 and now it is 05:45, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "65"
+  },
+  {
+    "question": "If I looked at the clock at 10:28 and now it is 12:06, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "98"
+  },
+  {
+    "question": "If I looked at the clock at 19:48 and now it is 21:48, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "120"
+  },
+  {
+    "question": "If I looked at the clock at 21:46 and now it is 23:10, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "84"
+  },
+  {
+    "question": "If I looked at the clock at 06:44 and now it is 08:18, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "94"
+  },
+  {
+    "question": "If I looked at the clock at 10:04 and now it is 11:05, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "61"
+  },
+  {
+    "question": "If I looked at the clock at 21:35 and now it is 23:01, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "86"
+  },
+  {
+    "question": "If I looked at the clock at 15:14 and now it is 17:09, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "115"
+  },
+  {
+    "question": "If I looked at the clock at 23:20 and now it is 01:08, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "108"
+  },
+  {
+    "question": "If I looked at the clock at 16:32 and now it is 17:38, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "66"
+  },
+  {
+    "question": "If I looked at the clock at 14:45 and now it is 15:45, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "60"
+  },
+  {
+    "question": "If I looked at the clock at 09:58 and now it is 11:32, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "94"
+  },
+  {
+    "question": "If I looked at the clock at 06:04 and now it is 07:18, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "74"
+  },
+  {
+    "question": "If I looked at the clock at 00:58 and now it is 02:18, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "80"
+  },
+  {
+    "question": "If I looked at the clock at 01:05 and now it is 02:14, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "69"
+  },
+  {
+    "question": "If I looked at the clock at 10:10 and now it is 11:54, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "104"
+  },
+  {
+    "question": "If I looked at the clock at 03:32 and now it is 05:24, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "112"
+  },
+  {
+    "question": "If I looked at the clock at 12:41 and now it is 14:34, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "113"
+  },
+  {
+    "question": "If I looked at the clock at 12:24 and now it is 14:20, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "116"
+  },
+  {
+    "question": "If I looked at the clock at 18:32 and now it is 20:27, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "115"
+  },
+  {
+    "question": "If I looked at the clock at 04:32 and now it is 06:16, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "104"
+  },
+  {
+    "question": "If I looked at the clock at 11:22 and now it is 13:22, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "120"
+  },
+  {
+    "question": "If I looked at the clock at 08:12 and now it is 09:32, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "80"
+  },
+  {
+    "question": "If I looked at the clock at 12:36 and now it is 13:47, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "71"
+  },
+  {
+    "question": "If I looked at the clock at 19:49 and now it is 21:44, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "115"
+  },
+  {
+    "question": "If I looked at the clock at 05:36 and now it is 06:46, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "70"
+  },
+  {
+    "question": "If I looked at the clock at 00:19 and now it is 02:02, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "103"
+  },
+  {
+    "question": "If I looked at the clock at 00:17 and now it is 01:47, how many minutes (e.g., 15, 23) have gone by?",
+    "answer": "90"
+  }
+]
